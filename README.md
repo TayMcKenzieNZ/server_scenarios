@@ -15,7 +15,9 @@ Let's be honest — you’re probably here because you want Server Scenarios, or
 
 This repository serves as a public announcement to inform you that all of my content is now available on my BuyMeACoffee store.
 
-But you're probably asking yourself, *"Why would I pay for something when there's a bunch of forks?* Because none of these isiots know how to use codewalker ans modify existing scrnarios yet alone add new ones. Server Scenarios was my research, and my work. not some bearded hobo who looks like he reeks of piss and bourbon.
+But you're probably asking yourself, *"Why would I pay for something when there's a bunch of forks?",* Because none of these idiots know how to use codewalker and modify existing scrnarios yet alone add new ones. 
+
+Server Scenarios was my research, and my work, not some bearded hobo who looks like he reeks of piss and bourbon.
 
 To summarize, several individuals, including PrinceAlbert, collaborated to have me banned from FiveM and the cfx.re forums, Discord, and community. Although my suspension was initially intended to last six months, it was never lifted.
 
@@ -68,6 +70,8 @@ The **Official** Server Scenarios resource can be found at my [BuyMeACoffee Stor
 **A.** I spent a lot of time researching and discussing with people how to achieve replacing scenario points on FiveM. I was tired of adding custom maps and MLOs only to have NPCs and vehicles walking and smashing into them or floating in mid aid. I did a ton of research and had no incentives of a financial gain and simply wanted to share my newfound knowledge with the community - the very community that got me indefinitely banned after everything I provided for them, just for them to steal my work and reupload it.
 
 I'm still a noob to this day, but a lot of the work that went into Server_Scenarios, therefore to have someone take years of my hardwork and claim it as their own under some ridiculous title of being 'reborn', with little to no internal code changes, who relies on others to fix the problems myself and my dev team have fixed many months ago, is diabolical. This individual is **not** a developer.
+
+A project manager *leads*; a clown entertains.
 
 -----------------------------------
 
