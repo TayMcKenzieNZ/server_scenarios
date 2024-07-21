@@ -11,7 +11,7 @@ Dear Reader,
 
 If you are reading this message, it is likely due to your previous support of my work or a referral from an individual, such as Noor_Nahas of PopcornRP, who appears to be actively monitoring and sharing community content.
 
-Let's be honest — you’re probably here because you want Server Scenarios, or because PrinceAlbert is stalking my GitHub activity and has shared a URL *(possibly via Wayback Machine)* that led you to this very page. I hate to burst your bubble, but there is Server Scenarios resource for you, PrinceAlbert, or anyone to steal and enjoy. #WompWomp
+Let's be honest — you’re probably here because you want Server Scenarios, or because PrinceAlbert is stalking my GitHub activity and has shared a URL *(possibly via Wayback Machine)* that led you to this very page. I hate to burst your bubble, but there is no Server Scenarios resource for you, PrinceAlbert, or anyone to steal and enjoy. #WompWomp
 
 This repository serves as a public announcement to inform you that all of my content is now available on my BuyMeACoffee store.
 
